@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on Flutter Development.
 - 🔭 I'm passionate about IoT and Micro-Controllers.
-- 🌱 I’m currently learning devOps stuff.
+- 🌱 I’m currently learning devOps.
 - 💬 Ask me about android/iot.
 - ⚡ Fun fact: I'm an Instrumentation and Control Engineer!
