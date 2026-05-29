@@ -1,7 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Software Development.
-- 🔭 I'm passionate about IoT and Micro-Controllers.
-- 🌱 I’m currently learning devOps.
-- 💬 Ask me about anything related to development.
-- ⚡ Fun fact: I'm still learning.
+I started out with hardware, microcontrollers, sensors, writing Assembly on paper in exams. Somehow ended up here, writing software that runs on thousands of trucks across North America. The journey in between involved a startup, a lot of learning things the hard way, and picking up more technologies than I can list without sounding like I'm lying. These days I work across Android apps, JavaScript, Python, and occasionally LISP. Somewhere along the way the bar became: does it hold up when a truck driver is doing 100mph with a bad signal. That's just how I think about it now.
